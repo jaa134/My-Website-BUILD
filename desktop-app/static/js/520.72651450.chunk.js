@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkmy_website_v2=self.webpackChunkmy_website_v2||[]).push([[520],{520:function(e,s,a){a.r(s),a.d(s,{default:function(){return t}});a(791);var c=a(772),i=a(184),n=(0,c.Z)("ExperiencePage"),t=function(){return(0,i.jsxs)("div",{className:n(),children:[(0,i.jsx)("div",{className:n("work")}),(0,i.jsx)("div",{className:n("tools")}),(0,i.jsx)("div",{className:n("projects")})]})}}}]);
-//# sourceMappingURL=520.72651450.chunk.js.map
