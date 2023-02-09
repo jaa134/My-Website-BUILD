@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/601.a177ab26.chunk.css","mappings":"AAKA,aAEE,cADA,UACA","sources":["components/pages/contactPage/ContactPage.scss"],"sourcesContent":["@import 'src/scss/colors.scss';\n@import 'src/scss/layout.scss';\n\n$name: 'ContactPage';\n\n.#{$name} {\n  width: 100%;\n  height: 100rem;\n}\n"],"names":[],"sourceRoot":""}
