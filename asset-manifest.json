@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.5dc4fbec.css",
-    "main.js": "/static/js/main.a992ad7f.js",
+    "main.css": "/static/css/main.6afbc0d5.css",
+    "main.js": "/static/js/main.8639bc18.js",
     "static/css/751.21fc26b4.chunk.css": "/static/css/751.21fc26b4.chunk.css",
     "static/js/751.5001dd00.chunk.js": "/static/js/751.5001dd00.chunk.js",
-    "static/css/492.3fdb8943.chunk.css": "/static/css/492.3fdb8943.chunk.css",
+    "static/css/492.84748376.chunk.css": "/static/css/492.84748376.chunk.css",
     "static/js/492.76468c95.chunk.js": "/static/js/492.76468c95.chunk.js",
     "static/css/250.a455f040.chunk.css": "/static/css/250.a455f040.chunk.css",
     "static/js/250.478ee28c.chunk.js": "/static/js/250.478ee28c.chunk.js",
@@ -19,11 +19,11 @@
     "static/media/globe.json?url": "/static/media/globe.28399e41de2157391e9c.json",
     "index.html": "/index.html",
     "static/media/satellites.txt?url": "/static/media/satellites.7c9d436e9b63feddcdde.txt",
-    "main.5dc4fbec.css.map": "/static/css/main.5dc4fbec.css.map",
-    "main.a992ad7f.js.map": "/static/js/main.a992ad7f.js.map",
+    "main.6afbc0d5.css.map": "/static/css/main.6afbc0d5.css.map",
+    "main.8639bc18.js.map": "/static/js/main.8639bc18.js.map",
     "751.21fc26b4.chunk.css.map": "/static/css/751.21fc26b4.chunk.css.map",
     "751.5001dd00.chunk.js.map": "/static/js/751.5001dd00.chunk.js.map",
-    "492.3fdb8943.chunk.css.map": "/static/css/492.3fdb8943.chunk.css.map",
+    "492.84748376.chunk.css.map": "/static/css/492.84748376.chunk.css.map",
     "492.76468c95.chunk.js.map": "/static/js/492.76468c95.chunk.js.map",
     "250.a455f040.chunk.css.map": "/static/css/250.a455f040.chunk.css.map",
     "250.478ee28c.chunk.js.map": "/static/js/250.478ee28c.chunk.js.map",
@@ -37,7 +37,7 @@
     "719.081b57e6.chunk.js.map": "/static/js/719.081b57e6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5dc4fbec.css",
-    "static/js/main.a992ad7f.js"
+    "static/css/main.6afbc0d5.css",
+    "static/js/main.8639bc18.js"
   ]
 }
